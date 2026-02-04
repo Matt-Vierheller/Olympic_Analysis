@@ -1,0 +1,17 @@
+## Tools & Technologies
+
+- **PostgreSQL** - Database management
+- **Python** - ETL, analysis, visualization
+- **Pandas** - Data manipulation
+- **Seaborn/Matplotlib** - Visualization
+- **SciPy** - Statistical hypothesis testing
+- **SQLAlchemy** - Database connection
+
+---
+
+## How to Run
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/Matt-Vierheller/olympics-host-advantage.git
+cd olympics-host-advantage
