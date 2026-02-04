@@ -1,4 +1,4 @@
-# 🏅 Olympics Host Advantage Analysis
+#  Olympics Host Advantage Analysis
 
 ## Research Question
 **Do host countries win more gold medals at the Olympics, and is the difference statistically significant?**
@@ -9,8 +9,8 @@
 
 | Olympics | P-Value | Significant? | Conclusion |
 |----------|---------|--------------|------------|
-| Summer ☀️ | 0.0003  | YES          | Host advantage is REAL |
-| Winter ❄️ | 0.1730  | NO           | No significant host advantage |
+| Summer   | 0.0003  | YES          | Host advantage is REAL |
+| Winter   | 0.1730  | NO           | No significant host advantage |
 
 ### Insights:
 - **Summer Olympics**: Host countries win significantly more gold medals when hosting (p = 0.0003)
@@ -29,5 +29,3 @@ Possible explanations for Summer vs Winter disparity:
 - Indoor Summer venues may amplify home crowd effect
 
 ---
-
-## Project Structure
