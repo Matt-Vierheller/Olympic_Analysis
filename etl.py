@@ -10,10 +10,10 @@ def get_engine():
     # Test the connection
     try:
         with engine.connect() as conn:
-            print("✅ Connected to PostgreSQL!")
+            print("Connected to PostgreSQL!")
         return engine
     except Exception as e:
-        print(f"❌ Connection failed: {e}")
+        print(f"Connection failed: {e}")
         return None
 
 def load_data(engine):
